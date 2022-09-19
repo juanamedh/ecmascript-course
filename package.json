@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "\"Juan Amedh S Salas",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
